@@ -1,0 +1,17 @@
+diff --git c/vimrc w/vimrc
+index 43b6e77..f5483e2 100644
+--- c/vimrc
++++ w/vimrc
+@@ -115,3 +115,5 @@ set smartcase       " ...unless we type a capital
+ 
+ " ================ Custom Settings ========================
+ so ~/.yadr/vim/settings.vim
++
++colorscheme gruvbox
+diff --git c/zsh/theme.zsh w/zsh/theme.zsh
+index 50e7eee..3370b29 100644
+--- c/zsh/theme.zsh
++++ w/zsh/theme.zsh
+@@ -1 +1 @@
+-prompt skwp
++prompt minimal
