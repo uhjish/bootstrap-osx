@@ -9,7 +9,7 @@ cd ~/.yadr && git apply ~/bootstrap/yadr-ajish.patch
 
 brew install python3 coreutils sed mawk jq r sbt leiningen ant maven gradle go haskell-stack npm yarn node
 
-brew install neovim mongodb mariadb postgresql redis 
+brew install neovim mariadb postgresql redis 
 
 brew tap caskroom/cask
 brew install caskroom/cask/vimr caskroom/cask/anaconda
@@ -17,7 +17,7 @@ brew install caskroom/versions/firefox-developer-edition caskroom/cask/google-ch
 brew install caskroom/cask/dropbox caskroom/cask/box-sync caskroom/cask/little-snitch caskroom/cask/micro-snitch
 brew install caskroom/cask/vivaldi caskroom/cask/microsoft-office caskroom/cask/opera-neon
 brew install caskroom/cask/nordvpn caskroom/cask/toggl caskroom/cask/falcon-sql-client
-
+brew install caskroom/cask/mongodb-compass caskroom/cask/mongodb
 mas lucky Fantastical
 mas lucky LastPass
 mas lucky Evernote
