@@ -16,7 +16,7 @@ brew install caskroom/cask/vimr caskroom/cask/anaconda
 brew install caskroom/versions/firefox-developer-edition caskroom/cask/google-chrome caskroom/cask/viscosity
 brew install caskroom/cask/dropbox caskroom/cask/box-sync caskroom/cask/little-snitch caskroom/cask/micro-snitch
 brew install caskroom/cask/vivaldi caskroom/cask/microsoft-office caskroom/cask/opera-neon
-brew install caskroom/cask/nordvpn caskroom/cask/toggl 
+brew install caskroom/cask/nordvpn caskroom/cask/toggl caskroom/cask/falcon-sql-client
 
 mas lucky Fantastical
 mas lucky LastPass
